@@ -9,7 +9,7 @@ This project provides the user with a single-page text editor that can work offl
 
 ### Link to deployed app
     ```md
-    www.app.com
+    https://lit-scrubland-50328.herokuapp.com/
     ```
 
 ### Install
