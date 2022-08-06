@@ -8,20 +8,20 @@ This project provides the user with a single-page text editor that can work offl
 
 
 ### Link to deployed app
-    ```md
-    https://lit-scrubland-50328.herokuapp.com/
-    ```
+```md
+https://lit-scrubland-50328.herokuapp.com/
+```
 
 ### Install
 
-    Install the required libraries:
-    ```md
-    npm install
-    ```
-    Run in local server
-    ```md
-    npm install
-    ```
+Install the required libraries:
+```md
+npm install
+```
+Run in local server
+```md
+npm install
+```
 
 ### Questions
 
