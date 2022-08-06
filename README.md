@@ -4,6 +4,13 @@
 
 This project provides the user with a single-page text editor that can work offline.
 
+![link](/textEditor.png)
+
+
+### Link to deployed app
+    ```md
+    www.app.com
+    ```
 
 ### Install
 
