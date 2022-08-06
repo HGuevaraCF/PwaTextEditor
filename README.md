@@ -7,18 +7,18 @@ This project provides the user with a single-page text editor that can work offl
 
 ### Install
 
-Install the required libraries:
-```md
-npm install
-```
-Compile the app
-```md
-npm install
-```
-Run in local server
-```md
-npm install
-```
+    Install the required libraries:
+    ```md
+    npm install
+    ```
+    Compile the app
+    ```md
+    npm install
+    ```
+    Run in local server
+    ```md
+    npm install
+    ```
 
 ### Questions
 
